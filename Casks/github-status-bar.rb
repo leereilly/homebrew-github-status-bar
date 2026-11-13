@@ -7,7 +7,7 @@ cask "github-status-bar" do
   desc "Native macOS menu bar app that monitors GitHub's service status"
   homepage "https://github.com/leereilly/github-status-bar"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "GitHubStatusBar.app"
 
