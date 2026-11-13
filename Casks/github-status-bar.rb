@@ -1,6 +1,6 @@
 cask "github-status-bar" do
-  version "0.0.1"
-  sha256 "006da3f0527d4fc0734ea34cf00c91c15589b0a1ad8a29887555d4dd30503f04"
+  version "0.0.2"
+  sha256 "facea2813e5f29e6447866ac4952ebaafda31840267516f132ed5f93fa5720b2"
 
   url "https://github.com/leereilly/github-status-bar/releases/download/v#{version}/GitHubStatusBar.app.zip"
   name "GitHub Status Bar"
